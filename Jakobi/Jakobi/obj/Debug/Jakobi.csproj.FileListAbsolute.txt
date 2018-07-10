@@ -1,0 +1,12 @@
+C:\Users\Антон\source\repos\Jakobi\Jakobi\obj\Debug\Jakobi.csprojResolveAssemblyReference.cache
+C:\Users\Антон\source\repos\Jakobi\Jakobi\obj\Debug\Jakobi.Form1.resources
+C:\Users\Антон\source\repos\Jakobi\Jakobi\obj\Debug\Jakobi.Form2.resources
+C:\Users\Антон\source\repos\Jakobi\Jakobi\obj\Debug\Jakobi.Properties.Resources.resources
+C:\Users\Антон\source\repos\Jakobi\Jakobi\obj\Debug\Jakobi.csproj.GenerateResource.Cache
+C:\Users\Антон\source\repos\Jakobi\Jakobi\obj\Debug\Jakobi.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\Jakobi\Jakobi\bin\Debug\Jakobi.exe.config
+C:\Users\Антон\source\repos\Jakobi\Jakobi\bin\Debug\Jakobi.exe
+C:\Users\Антон\source\repos\Jakobi\Jakobi\bin\Debug\Jakobi.pdb
+C:\Users\Антон\source\repos\Jakobi\Jakobi\obj\Debug\Jakobi.exe
+C:\Users\Антон\source\repos\Jakobi\Jakobi\obj\Debug\Jakobi.pdb
+C:\Users\Антон\source\repos\Jakobi\Jakobi\obj\Debug\Jakobi.Form3.resources

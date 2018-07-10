@@ -1,0 +1,7 @@
+C:\Users\Антон\source\repos\ProjectVM0\ProjectVM0\bin\Debug\ProjectVM0.exe.config
+C:\Users\Антон\source\repos\ProjectVM0\ProjectVM0\bin\Debug\ProjectVM0.exe
+C:\Users\Антон\source\repos\ProjectVM0\ProjectVM0\bin\Debug\ProjectVM0.pdb
+C:\Users\Антон\source\repos\ProjectVM0\ProjectVM0\obj\Debug\ProjectVM0.csprojResolveAssemblyReference.cache
+C:\Users\Антон\source\repos\ProjectVM0\ProjectVM0\obj\Debug\ProjectVM0.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\ProjectVM0\ProjectVM0\obj\Debug\ProjectVM0.exe
+C:\Users\Антон\source\repos\ProjectVM0\ProjectVM0\obj\Debug\ProjectVM0.pdb

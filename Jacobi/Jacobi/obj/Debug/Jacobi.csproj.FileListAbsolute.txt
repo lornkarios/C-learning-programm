@@ -1,0 +1,7 @@
+c:\users\антон\source\repos\Jacobi\Jacobi\bin\Debug\Jacobi.exe.config
+c:\users\антон\source\repos\Jacobi\Jacobi\bin\Debug\Jacobi.exe
+c:\users\антон\source\repos\Jacobi\Jacobi\bin\Debug\Jacobi.pdb
+c:\users\антон\source\repos\Jacobi\Jacobi\obj\Debug\Jacobi.csprojResolveAssemblyReference.cache
+c:\users\антон\source\repos\Jacobi\Jacobi\obj\Debug\Jacobi.csproj.CoreCompileInputs.cache
+c:\users\антон\source\repos\Jacobi\Jacobi\obj\Debug\Jacobi.exe
+c:\users\антон\source\repos\Jacobi\Jacobi\obj\Debug\Jacobi.pdb

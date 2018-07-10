@@ -1,0 +1,6 @@
+﻿  rab10.cpp
+c:\users\антон\source\repos\rab10\rab10\rab10.cpp(60): warning C4305: инициализация: усечение из "__int64" в "float"
+c:\users\антон\source\repos\rab10\rab10\rab10.cpp(52): warning C4101: f: неиспользованная локальная переменная
+c:\users\антон\source\repos\rab10\rab10\rab10.cpp(49): warning C4101: index: неиспользованная локальная переменная
+c:\users\антон\source\repos\rab10\rab10\rab10.cpp(54): warning C4101: CityName: неиспользованная локальная переменная
+  rab10.vcxproj -> C:\Users\Антон\source\repos\rab10\Debug\rab10.exe

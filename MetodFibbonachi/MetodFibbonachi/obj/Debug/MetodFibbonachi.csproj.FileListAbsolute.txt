@@ -1,0 +1,7 @@
+C:\Users\Антон\source\repos\MetodFibbonachi\MetodFibbonachi\bin\Debug\MetodFibbonachi.exe.config
+C:\Users\Антон\source\repos\MetodFibbonachi\MetodFibbonachi\bin\Debug\MetodFibbonachi.exe
+C:\Users\Антон\source\repos\MetodFibbonachi\MetodFibbonachi\bin\Debug\MetodFibbonachi.pdb
+C:\Users\Антон\source\repos\MetodFibbonachi\MetodFibbonachi\obj\Debug\MetodFibbonachi.csprojResolveAssemblyReference.cache
+C:\Users\Антон\source\repos\MetodFibbonachi\MetodFibbonachi\obj\Debug\MetodFibbonachi.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\MetodFibbonachi\MetodFibbonachi\obj\Debug\MetodFibbonachi.exe
+C:\Users\Антон\source\repos\MetodFibbonachi\MetodFibbonachi\obj\Debug\MetodFibbonachi.pdb

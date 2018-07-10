@@ -1,0 +1,4 @@
+﻿  rab8_15.cpp
+c:\users\антон\source\repos\rab8_15\rab8_15\rab8_15.cpp(43): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\антон\source\repos\rab8_15\rab8_15\rab8_15.cpp(23): warning C4101: i: неиспользованная локальная переменная
+  rab8_15.vcxproj -> C:\Users\Антон\source\repos\rab8_15\Debug\rab8_15.exe

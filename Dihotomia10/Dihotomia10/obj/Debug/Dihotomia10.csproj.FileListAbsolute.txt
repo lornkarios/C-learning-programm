@@ -1,0 +1,7 @@
+C:\Users\Антон\source\repos\Dihotomia10\Dihotomia10\bin\Debug\Dihotomia10.exe.config
+C:\Users\Антон\source\repos\Dihotomia10\Dihotomia10\bin\Debug\Dihotomia10.exe
+C:\Users\Антон\source\repos\Dihotomia10\Dihotomia10\bin\Debug\Dihotomia10.pdb
+C:\Users\Антон\source\repos\Dihotomia10\Dihotomia10\obj\Debug\Dihotomia10.csprojResolveAssemblyReference.cache
+C:\Users\Антон\source\repos\Dihotomia10\Dihotomia10\obj\Debug\Dihotomia10.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\Dihotomia10\Dihotomia10\obj\Debug\Dihotomia10.exe
+C:\Users\Антон\source\repos\Dihotomia10\Dihotomia10\obj\Debug\Dihotomia10.pdb

@@ -1,0 +1,11 @@
+C:\Users\Антон\source\repos\PrItSLAU\PrItSLAU\bin\Debug\PrItSLAU.exe.config
+C:\Users\Антон\source\repos\PrItSLAU\PrItSLAU\bin\Debug\PrItSLAU.exe
+C:\Users\Антон\source\repos\PrItSLAU\PrItSLAU\bin\Debug\PrItSLAU.pdb
+C:\Users\Антон\source\repos\PrItSLAU\PrItSLAU\obj\Debug\PrItSLAU.csprojResolveAssemblyReference.cache
+C:\Users\Антон\source\repos\PrItSLAU\PrItSLAU\obj\Debug\PrItSLAU.Form1.resources
+C:\Users\Антон\source\repos\PrItSLAU\PrItSLAU\obj\Debug\PrItSLAU.Properties.Resources.resources
+C:\Users\Антон\source\repos\PrItSLAU\PrItSLAU\obj\Debug\PrItSLAU.csproj.GenerateResource.Cache
+C:\Users\Антон\source\repos\PrItSLAU\PrItSLAU\obj\Debug\PrItSLAU.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\PrItSLAU\PrItSLAU\obj\Debug\PrItSLAU.exe
+C:\Users\Антон\source\repos\PrItSLAU\PrItSLAU\obj\Debug\PrItSLAU.pdb
+C:\Users\Антон\source\repos\PrItSLAU\PrItSLAU\obj\Debug\PrItSLAU.Form2.resources
